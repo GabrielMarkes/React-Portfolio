@@ -6,12 +6,12 @@ export default function Footer1(){
     
     return(
         <div>   
-            <marquee direction="up" >
+            <div direction="up" >
                 <div class="footer">
                 <a href="https://contate.me/contato-gm"> <img src={whatsapp} alt="whatsapp-logo"></img></a>
                 <a href="https://www.instagram.com/gabrielmarks19/"><img className="instagramm" src={instagram} alt="instagram-logo"></img></a>
                 </div> 
-            </marquee>
+            </div>
         </div>
     )
 }

@@ -10,9 +10,9 @@ export default function Header() {
     <div className="header">
       <ul className="list">
         <li className="item">
-          <a href="#" onClick={handleMenuClick}>
+          <div onClick={handleMenuClick}>
             Menu
-          </a>
+          </div>
         </li>
         <li className="item">
           <a href="#skills">Skills</a>
