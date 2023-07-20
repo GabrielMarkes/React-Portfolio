@@ -1,0 +1,107 @@
+.range {
+    margin-top: 352px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 100px;
+  } 
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    gap: 30px;
+    margin-top: 80px;
+ }
+
+.card {
+    width: calc(33.33% - 20px);
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
+  }
+  
+.card img {
+    height: 80px;
+    width: 80px;
+  }
+.card h1 {
+    font-size: 20px;
+  }
+  
+.card p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+.card a {
+    color: rgb(0, 0, 0);
+  }
+  
+.card a:hover {
+    color: rgb(0, 255, 106);
+}
+.readmore:hover{
+    background-color: rgb(143, 143, 143);
+    border-radius: 5px;
+}
+.gap{
+    margin-top: -300px;
+}
+.habilities{
+    text-align: center;
+}
+.card h1:hover{
+    color:rgb(0, 255, 106) ;
+}
+.card:hover{
+  background-color: rgba(0, 0, 0, 0.37);
+  color: #fff;
+  transition: 3s;
+}
+.habilities{
+  font-size: large;
+  
+}
+.habilities:hover{
+  color:rgb(0, 255, 106);
+  transition: 2s;
+}
+@media screen and (min-width: 376px) {
+  .habilities{
+    font-size: 100px;
+    color: grey;
+  }
+
+}
+
+/* Estilos para telas menores */
+@media screen and (max-width: 375px) {
+  .habilities{
+    font-size: 100px;
+    color: grey;
+
+  }
+
+
+}
+@media screen and (max-width: 717px) {
+  .habilities{
+    font-size: 100px;
+    color: grey;
+  }
+
+
+}
+
+@media screen and (max-width: 483px) {
+  .habilities{
+    font-size: 100px;
+    color: grey;
+  }
+
+}
