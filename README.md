@@ -1,4 +1,4 @@
-Portfólio 100% feito em React 
+*Portfólio 100% feito em React*
 <img src="https://github.com/GabrielMarkes/React-Portfolio/assets/82659871/d1729374-36f4-4d56-93ed-44f81ca61192">
 <br/>
 <br/>
