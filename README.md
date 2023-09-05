@@ -8,7 +8,7 @@ Portfólio 100% feito em React
 <img src="https://github.com/GabrielMarkes/React-Portfolio/assets/82659871/5ce0f443-ae2d-47c2-811f-adc07c028542">
 <br/>
 <br/>
-<img src="https://github.com/GabrielMarkes/React-Portfolio/assets/82659871/5ce0f443-ae2d-47c2-811f-adc07c028542">
+<img src="https://github.com/GabrielMarkes/React-Portfolio/assets/82659871/bea6990e-a724-429a-9243-f50dded17d7d">
 <br/>
 <br/>
 <img src="https://github.com/GabrielMarkes/React-Portfolio/assets/82659871/4b993c43-0b02-432d-84c9-2195338922e9">
